@@ -4,3 +4,5 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Random+French+Dude" alt="Typing SVG" /></a>
 </p>
+
+![RimGMok's GitHub stats](https://github-readme-stats.vercel.app/api?username=RimGMok&show_icons=true&theme=radical)
